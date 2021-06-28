@@ -1,8 +1,6 @@
 package com.sparta.week03.domain;
 
 import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.RequiredArgsConstructor;
 
 @Getter
 public class MemoRequestDto {
